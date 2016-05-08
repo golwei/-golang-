@@ -12,3 +12,15 @@ type 马 struct{
 移动()↑:（x，y）{x+2，y+1}
 移动()→:(x,y){x+1,y+2}
 }
+
+package main
+import "fmt"
+func main(){
+for y:=0;y<12;y++{
+	for x:=0;x<9;x++{
+fmt.Printf("*") 
+}
+fmt.Println()
+}
+ 
+}

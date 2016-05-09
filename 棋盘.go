@@ -1,5 +1,6 @@
 
 //二维数组切片
+//http://my.oschina.net/u/943306/blog/153156
 package main
  import "fmt"
 
